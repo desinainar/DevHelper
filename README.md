@@ -1,7 +1,3 @@
-## HackIllinois 2024 Submission
-Team: Desi Nainar, Mohit Singh, Ramanan Srirajan, Devashish Khatavkar
-
-
 ## Inspiration
 
 As developers, we all have run into errors that leave us stumped. Whether it's trying to understand legacy code without proper documentation or debugging a new feature you're implementing, the best resources for understanding and solving your problem are often online. DevHelper aims to bridge the gap between developing code and receiving online feedback, giving developers a coherent programming experience.
